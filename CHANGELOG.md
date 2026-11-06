@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-11-05, update
+
+- Corrected the labels for the MycoStories and Specter counts so that they match the wording on each source page, and added the MycoStories home page as a source.
+
 ## 2026-11-05
 
 First public release.
