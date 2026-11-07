@@ -6,7 +6,7 @@ Open the map: `index.html`, or the GitHub Pages address of this repository.
 
 ## What is in it
 
-- 570 organizations. Each one has a status: active, acquired or new owner, collapsed, sold off or paused, or award winner.
+- 579 organizations. Each one has a status: active, acquired or new owner, collapsed, sold off or paused, or award winner.
 - 155 investors, each tied to a named fungal company through a funding announcement.
 - Short sections on closed companies, assets that could be kept for the field, and what the field cannot measure yet.
 
