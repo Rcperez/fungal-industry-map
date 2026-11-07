@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-11-07
+
+- Fixed the status filter buttons, which highlighted but did not hide entries.
+
 ## 2026-11-06
 
 - Added Arsenale Bioyards, Antheia, Novonesis, IFF, and three companies from the BEAM Circular Accelerator: Oleo Sustainable Palm Oil Solutions, Ruby Bio and Fermeate, plus The Yeast Bay and Traitomic (579 organizations).
